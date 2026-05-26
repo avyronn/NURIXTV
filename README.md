@@ -1,55 +1,85 @@
-# 🎬 NURIX TV
+# NURIX TV
 
-> Nền tảng xem phim & truyền hình thế hệ mới – nhanh, mượt, và không giới hạn.
-
----
-
-## 🚀 Giới thiệu
-
-**NURIX TV** là ứng dụng giải trí trực tuyến được xây dựng nhằm mang đến trải nghiệm xem phim và truyền hình hiện đại, tối ưu và tiện lợi nhất cho người dùng.
-
-Với định hướng trở thành một nền tảng streaming mạnh mẽ, NURIX TV cung cấp kho nội dung đa dạng từ:
-- 🎥 Phim điện ảnh (Movies)
-- 📺 Phim bộ (TV Series)
-- 🍿 Anime
-- 📡 Kênh truyền hình trực tiếp
-
-Tất cả đều được tối ưu để phát nhanh, ổn định và dễ dàng truy cập trên nhiều thiết bị.
+Ứng dụng xem phim dành riêng cho Android TV với giao diện hiện đại, tối ưu cho màn hình lớn và điều khiển bằng remote.
 
 ---
 
-## ✨ Tính năng nổi bật
+## 🎬 Trải nghiệm xem phim trên TV theo cách đơn giản nhất
 
-### 🎬 Kho nội dung phong phú
-- Hàng ngàn bộ phim từ nhiều thể loại
-- Cập nhật liên tục nội dung mới
-- Hỗ trợ nhiều nguồn phát
+NURIX TV mang đến trải nghiệm giải trí mượt mà ngay trên Android TV:
 
-### ⚡ Hiệu năng tối ưu
-- Tải nhanh, giảm buffering
-- Streaming mượt ngay cả mạng yếu
-- Tối ưu cho cả mobile và TV
-
-### 📱 Đa nền tảng
-- Android / iOS
-- Web App
-- Smart TV
-
-### ❤️ Cá nhân hóa trải nghiệm
-- Gợi ý nội dung theo sở thích
-- Lưu lịch sử xem
-- Danh sách yêu thích (Watchlist)
-
-### 🔍 Tìm kiếm thông minh
-- Tìm phim nhanh chóng
-- Lọc theo thể loại, quốc gia, năm phát hành
+- Xem phim và TV Shows chất lượng cao
+- Giao diện tối ưu cho TV
+- Điều khiển dễ dàng bằng remote
+- Chuyển tập nhanh
+- Ghi nhớ tiến trình xem
+- Tìm kiếm nội dung nhanh chóng
 
 ---
 
-## 🖥️ Giao diện
+# ⚡ Tối ưu cho Android TV
 
-- Thiết kế hiện đại, tối giản
-- Trải nghiệm người dùng mượt mà
-- Điều hướng dễ dàng, thân thiện
+Ứng dụng được thiết kế riêng cho:
+
+- Android TV
+- Google TV
+- Smart TV hỗ trợ Android
+
+Mọi thao tác đều được tối ưu cho màn hình lớn và điều khiển TV.
 
 ---
+
+# 🔐 Đăng nhập nhanh bằng QR Code
+
+Không cần nhập tài khoản bằng remote.
+
+Chỉ cần:
+
+1. Mở ứng dụng trên TV
+2. Quét mã QR bằng điện thoại
+3. Xác nhận đăng nhập
+
+Đăng nhập hoàn tất chỉ trong vài giây.
+
+---
+
+# 🎥 Trình phát video mượt mà
+
+NURIX TV hỗ trợ:
+
+- Streaming ổn định
+- Tua nhanh / tua lùi
+- Play / Pause nhanh
+- Chuyển tập trực tiếp
+- Tiếp tục xem từ lần trước
+
+---
+
+# 🎨 Giao diện hiện đại
+
+Thiết kế tối giản, dễ sử dụng và phù hợp với trải nghiệm giải trí tại nhà.
+
+- Hiệu ứng mượt mà
+- Điều hướng đơn giản
+- Tối ưu cho điều khiển TV
+- Trải nghiệm xem phim tập trung và trực quan
+
+---
+
+# 📱 Yêu cầu hệ thống
+
+- Android TV 7.0 trở lên
+- Kết nối Internet
+
+---
+
+
+# 👨‍💻 Phát triển bởi
+
+**Avyron**
+
+---
+
+# ❤️ NURIX TV
+
+Biến chiếc TV của bạn thành một rạp phim mini ngay tại nhà.
